@@ -1,0 +1,9 @@
+[submodule "greeting-grpc-client"]
+	path = greeting-grpc-client
+	url = git@github.com:cristiancmello/greeting-grpc-client.git
+[submodule "greeting-grpc-interfaceproto"]
+	path = greeting-grpc-interfaceproto
+	url = git@github.com:cristiancmello/greeting-grpc-interfaceproto.git
+[submodule "greeting-grpc-server"]
+	path = greeting-grpc-server
+	url = git@github.com:cristiancmello/greeting-grpc-server.git
