@@ -1,6 +1,7 @@
 # Greeting Service gRPC
 
 An example with Interface Proto, Server and Client using Java 11, Maven and Spring Boot.
+You need an example with Interface Proto as external project and package? You will have an excellent day with me 🤗.
 
 ## Build and Installing Interface Protobuffers into your M2 folder
 
